@@ -14,7 +14,7 @@
           </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 My Github </h2> <div align= "center">  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">  
      <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjjj99%2Fhit-counter&count_bg=%23FFD0D0&title_bg=%23FD9E9E&icon=&icon_color=%23FFD0D0&title=hits&edge_flat=false"/>
        <br/>
        <br/>
